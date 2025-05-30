@@ -202,6 +202,6 @@ loan-risk-fraud-insights/
 ├── README.md                # Project documentation
 ├── visuals/                 # Saved graphs and plots
 └── requirements.txt         # Required Python libraries
-
+```
 
 
