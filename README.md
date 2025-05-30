@@ -214,6 +214,6 @@ loan-risk-fraud-insights/            # Project root directory
 ---
 **Author**: Bhaskar Pal
 ```
-📧 Contact: [bhaskarpal.official@gmail.com 
+📧 Contact: bhaskarpal.official@gmail.com 
 ```
 
