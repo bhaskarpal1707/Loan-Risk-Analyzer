@@ -1,5 +1,6 @@
 # Loan Risk Analyzer: A Deep Dive into Financial Risk, Fraud Detection, and Customer Behavior
 
+![Image1]()
 ---
 
 ## 🔍 Project Overview
@@ -194,6 +195,7 @@ Use behavioral segmentation to design tailored financial products — from risk-
 ✔ Recommendation engine potential for personalized rates  
 
 ---
+## 📂 Folder Structure
 ```
 loan-risk-fraud-insights/            # Project root directory
 ├── EDA.ipynb                        # Jupyter notebook with full analysis
