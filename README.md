@@ -1,6 +1,6 @@
 # Loan Risk Analyzer: A Deep Dive into Financial Risk, Fraud Detection, and Customer Behavior
 
-![Image1]()
+![Image1](https://github.com/bhaskarpal1707/Loan-Risk-Analyzer/blob/main/Image1.jpg)
 ---
 
 ## 🔍 Project Overview
