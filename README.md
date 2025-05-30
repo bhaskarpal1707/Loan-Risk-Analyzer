@@ -211,5 +211,9 @@ loan-risk-fraud-insights/            # Project root directory
 └── requirements.txt                 # Required Python libraries
 ```
 
-
+---
+**Author**: Bhaskar Pal
+```
+📧 Contact: [bhaskarpal.official@gmail.com 
+```
 
