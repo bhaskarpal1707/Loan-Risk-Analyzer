@@ -194,14 +194,14 @@ Use behavioral segmentation to design tailored financial products — from risk-
 ✔ Recommendation engine potential for personalized rates  
 
 ---
-
-## 📂 Folder Structure
-loan-risk-fraud-insights/
-├── EDA.ipynb                # Jupyter notebook with full analysis
-├── Loan.csv                 # Dataset used for EDA
-├── README.md                # Project documentation
-├── visuals/                 # Saved graphs and plots
-└── requirements.txt         # Required Python libraries
 ```
+loan-risk-fraud-insights/            # Project root directory
+├── EDA.ipynb                        # Jupyter notebook with full analysis
+├── Loan.csv                         # Dataset used for EDA
+├── README.md                        # Project documentation
+├── visuals/                         # Saved graphs and plots
+└── requirements.txt                 # Required Python libraries
+```
+
 
 
