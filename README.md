@@ -27,6 +27,7 @@ This project leverages **Exploratory Data Analysis (EDA)** to derive actionable 
 The project operates in the **financial services domain**, particularly within the **retail lending** and **loan underwriting** function of banks and financial institutions.
 
 ---
+![Image2](https://github.com/bhaskarpal1707/Loan-Risk-Analyzer/blob/main/Image2.jpg)
 
 ## 💡 Business Problems Solved
 
@@ -62,6 +63,7 @@ Key Features:
 - Flags: `LoanApproved`, `BankruptcyHistory`, `PreviousLoanDefaults`
 
 ---
+![Image3](https://github.com/bhaskarpal1707/Loan-Risk-Analyzer/blob/main/Image3.jpg)
 
 ## 🔄 Workflow & Methodology
 
@@ -149,6 +151,9 @@ Flag applicants with data inconsistencies for manual review. A simple fraud scor
 - 🏠 Customers with **‘Home’ loan purposes** and `Mortgage` status show better long-term behavior, possibly due to collateral.
 - 🔄 Applicants with **JobTenure > 7 years** and a stable credit line history are the **least risky group** overall.
 
+
+![Image4](https://github.com/bhaskarpal1707/Loan-Risk-Analyzer/blob/main/Image4.jpg)
+
 **Segment Profiles Identified:**
 
 | Segment | Key Traits | Strategy |
@@ -186,6 +191,7 @@ Use behavioral segmentation to design tailored financial products — from risk-
    Offer **risk-adjusted rates** — rewarding low-risk customers and offsetting risk with premium rates.
 
 ---
+![Image5](https://github.com/bhaskarpal1707/Loan-Risk-Analyzer/blob/main/Image5.jpg)
 
 ## 📈 Project Outcome
 
